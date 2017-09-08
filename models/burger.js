@@ -18,4 +18,4 @@ var burger = {
 	}
 };
 
-module.exports = cats;
+module.exports = burger;
