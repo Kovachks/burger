@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	width:100%;
+	background-color: #edd628;
+}
+img {
+	height: 175px;
+	width: 350px;
+}
+#devoured {
+	position: relative;
+	width: 10%;
+	margin: 0 0 0 0;
+	left: 53%;
+}
+#undevoured {
+	position: absolute;
+	width: 500px;
+	margin: 0 0 0 0;
+	left: 35%;
+}
+
+.undevouredLi {
+	width: 30%;
+}
+.devourButton {
+	position: absolute;
+}
+#mainBody {
+	margin: 25px 0 0 0;
+}
+#submitDiv {
+	position: relative;
+}
+#list {
+	position: relative;
+	height: 200px;
+	overflow: auto;
+}
